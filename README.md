@@ -8,6 +8,9 @@ to the correct location.
 sudo cp /usr/include/PCSC/* /usr/include/
 ```
 
+I have realised this ^^ is not needed and is due to my incompotence, I will not fix this
+though.
+
 You also need to install `acsccid` for the ACR122U then remove pn533
 after connecting it.
 ```bash
