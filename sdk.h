@@ -1,6 +1,6 @@
 #pragma once
-#include <reader.h>
-#include <winscard.h>
+#include <PCSC/reader.h>
+#include <PCSC/winscard.h>
 
 #define SC_BLOCK_SIZE 16
 
